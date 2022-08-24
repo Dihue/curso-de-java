@@ -1,5 +1,2 @@
-package Cuatrimestre_02.Clases;
-
-public class C01_Introduccion {
-
+package Programacion.Cuatrimestre_02.Clases;public class C01_Introduccion {
 }
