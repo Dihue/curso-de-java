@@ -1,2 +1,5 @@
-package Programacion.Cuatrimestre_02.Clases.C08_30.Herencia;public class Directivo {
+package Programacion.Cuatrimestre_02.Clases.C08_30.Herencia;
+
+public class Directivo extends Empleado {
+
 }

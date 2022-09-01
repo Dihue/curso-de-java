@@ -1,0 +1,4 @@
+POO
+- Evento: desde mandar un email hasta hacer un simpre click
+- Control de acceso: public, private, protected
+- Herencia
