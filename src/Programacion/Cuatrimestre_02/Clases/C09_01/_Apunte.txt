@@ -1,0 +1,12 @@
+- Herencia
+
+- Clase Abstracta:
+    - se usa la palabra reservada abstract en la clase
+    - no se puede crear instancias de las clases abstractas
+    - puede o no tener métodos abstractos
+
+- Método / Función Abstracto:
+    - solo puede vivir en una clase abstracta
+    - no tiene comportamiento
+    - solo tiene la firma del método
+    - las clases que heredan este método deben darle el cuerpo y pueden tener comportamientos únicos
