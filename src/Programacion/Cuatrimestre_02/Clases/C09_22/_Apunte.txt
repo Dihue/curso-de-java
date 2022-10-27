@@ -1,0 +1,8 @@
+SOLID:  conjunto de principios básicos - 5 - (se aplica para buen uso de POO)
+        cada lenguaje tiene sus propios principios (ver)
+
+        S: creación de código especifico para cada sistema
+        O: uso de interface con métodos reutilizables
+        L: herencia, uso de métodos que puedan ser accesibles con todos los hijos y del uppcasting
+        I: muchas interfaces con pocos métodos que sean específicos
+        D: inversion de dependencias

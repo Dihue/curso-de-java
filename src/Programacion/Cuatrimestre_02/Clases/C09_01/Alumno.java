@@ -2,7 +2,7 @@ package Programacion.Cuatrimestre_02.Clases.C09_01;
 
 public class Alumno extends Persona {
 
-	private double cuotaMensual;
+	protected double cuotaMensual;
 
 	public double getCuotaMensual() {
 		return cuotaMensual;

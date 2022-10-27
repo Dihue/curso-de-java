@@ -1,7 +1,6 @@
-package Laboratorio.En_Clase;
+package Laboratorio.Clases;
 
 import java.util.ArrayList;
-import javax.swing.JOptionPane;
 
 public class C08_18_ForEach {
 

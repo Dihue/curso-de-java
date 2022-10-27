@@ -1,0 +1,14 @@
+- Polimorfismo:
+        // identificar diferencias entre los dos
+    - Sobrecargar: (no relacionado con la herencia)
+        Se implementa dentro de la misma clase
+        Los parametros del metodo deben ser diferentes
+        El tipo de retorno del metodo no importa, puede ser el mismo o diferente
+        Se puede modificar los modificadores de acceso
+        se utiliza esta tecnica para incremetar la agilidad del programa
+
+    - Sobreescritura (solo se presenta si hay herencia entre clases)
+        Se implemenan entre 2 clases que tiene una relacion de herencia
+        Los parametros siempre deben ser los mismos
+        El tipo de retorno siempre debe ser el mismo
+        Se pueden modificar siempre y cuando el nuevo modificador de acceso no

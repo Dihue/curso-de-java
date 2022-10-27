@@ -1,0 +1,5 @@
+Estructuras lineales
+
+Listas
+
+Recursividad (rama de datos)

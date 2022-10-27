@@ -1,4 +1,4 @@
-package Programacion.Cuatrimestre_02.Clases;
+package Programacion.Cuatrimestre_02.Clases.C08_25;
 
 public class C03_POO {
 

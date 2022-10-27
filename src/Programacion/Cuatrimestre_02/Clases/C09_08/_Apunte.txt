@@ -1,0 +1,24 @@
+- Ciclo de vida:
+
+JVM es el encargado de la administración de la memoria
+
+Memoria RAM(en java)
+    - Pila (Stack):
+            Tiene "ranuras"
+            Almacena como una "pila de platos"
+
+
+
+    * Variable en la Pila hace una referencia a los datos en el Monton,
+      al momento de instanciar una clase (empleando punteros)
+
+
+    - Monton (Heap):
+            "Cajas" de memoria para almacenar las instancias
+            Aqui se usa el recolector de basura con las instancias no usadas
+            Si se asigna null a una variable, se destruye la referencia al monton
+            y queda la caja sin poder acceder
+
+
+    String son tipos por REFERENCIA
+    Tipos de datos: por valor y por referencia (es diferente en POO respecto de funciones)

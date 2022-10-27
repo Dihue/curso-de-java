@@ -1,0 +1,24 @@
+Repaso de general de POO
+
+    Clase Abstracta
+    Paquetes
+
+
+Unidad 2: RECURSIVIDAD
+    Método que se llama a sí mismo
+    Debe tener una condición base para poder salir de la recursividad
+
+    Niveles de Recursividad:
+        -> de Funciones -> Directas
+                     -> Indirectas (llamados de varios métodos)
+
+        -> de Datos -> Definiciones recursivas
+
+
+    Construcción de un menú:
+
+ID  |   Nombre  |   ID del Padre
+1   |   File    |   -1
+2   |   Nuevo   |   1
+3   |   View    |   -1
+4   |   Save as |   1

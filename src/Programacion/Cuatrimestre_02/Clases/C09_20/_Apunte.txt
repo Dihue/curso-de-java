@@ -1,0 +1,5 @@
+CASTING
+
+    Cast            INT             DOUBLE
+    Implicito       4B      =>      16B
+    Explicito               <=

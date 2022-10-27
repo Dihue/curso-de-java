@@ -30,6 +30,12 @@ public abstract class Persona {
 		this.dni = dni;
 	}
 
+	@Override
+	public String toString() {
+		return getApellido() + ", " + getNombre();
+	}
+
+
 	// Método Abstracto
 	// las clases que heredan este método deben darle el cuerpo
 	public abstract void imprimirNombreCompleto();

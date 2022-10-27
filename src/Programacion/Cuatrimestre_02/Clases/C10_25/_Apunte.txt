@@ -1,0 +1,10 @@
+Estructuras de datos no lineales
+    Arboles
+        euristica(como trabajar con el arbol)
+
+
+    Grafos
+
+
+*Colocar los metodos publicos antes que los privado (buena practica)
+*lisp
