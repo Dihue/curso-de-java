@@ -1,0 +1,10 @@
+Panel donde ingresar un nombre
+
+Boton Guardar
+Ese nombre se debe poder guardar en un arreglo que se guarde en un texto
+
+Boton Ver Nombres
+Poder mostrar todos los nombre guardados en un (textArea)
+
+
+ver tomar datos de la pc: recursos utilizados
