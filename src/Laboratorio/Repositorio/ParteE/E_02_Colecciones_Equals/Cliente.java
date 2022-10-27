@@ -1,4 +1,4 @@
-package Laboratorio.Repositorio.ParteE_02_Colecciones_Equals;
+package Laboratorio.Repositorio.ParteE.E_02_Colecciones_Equals;
 
 public class Cliente {
 	private String nombre;

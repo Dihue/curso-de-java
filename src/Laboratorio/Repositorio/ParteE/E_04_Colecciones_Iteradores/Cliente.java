@@ -1,6 +1,4 @@
-package Laboratorio.Repositorio.ParteE_04_Colecciones_Iteradores;
-
-import java.util.Objects;
+package Laboratorio.Repositorio.ParteE.E_04_Colecciones_Iteradores;
 
 public class Cliente {
 	private String nombre;

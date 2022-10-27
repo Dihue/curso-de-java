@@ -1,4 +1,4 @@
-package Laboratorio.Repositorio.ParteA_01_Introduccion;
+package Laboratorio.Repositorio.ParteA.A_01_Introduccion;
 
 public class EJ02_HolaMundo {
 

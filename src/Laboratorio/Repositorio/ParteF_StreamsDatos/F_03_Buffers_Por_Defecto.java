@@ -1,4 +1,4 @@
-package Laboratorio.Repositorio.ParteF;
+package Laboratorio.Repositorio.ParteF_StreamsDatos;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

@@ -1,4 +1,4 @@
-package Laboratorio.Clases;
+package Laboratorio.Clases.C08_25;
 
 public class C08_25_POO_Banco {
 

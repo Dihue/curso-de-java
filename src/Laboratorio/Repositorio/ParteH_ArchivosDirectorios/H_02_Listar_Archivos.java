@@ -2,7 +2,7 @@ package Laboratorio.Repositorio.ParteH_ArchivosDirectorios;
 
 import java.io.File;
 
-public class H_02_ListarArchivos {
+public class H_02_Listar_Archivos {
 
 	public static void main(String[] args) {
 		/*

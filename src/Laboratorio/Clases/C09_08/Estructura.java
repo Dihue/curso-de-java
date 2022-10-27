@@ -1,2 +1,7 @@
-package Laboratorio.Clases.C09_08;public interface Estructura {
+package Laboratorio.Clases.C09_08;
+
+public interface Estructura {
+
+	boolean frenos();
+
 }

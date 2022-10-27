@@ -1,4 +1,4 @@
-package Laboratorio.Repositorio.ParteE_05_Colecciones_LinkeList;
+package Laboratorio.Repositorio.ParteE.E_05_Colecciones_LinkeList;
 
 import java.util.LinkedList;
 import java.util.ListIterator;

@@ -1,4 +1,4 @@
-package Laboratorio.Repositorio.ParteE_04_Colecciones_Iteradores;
+package Laboratorio.Repositorio.ParteE.E_04_Colecciones_Iteradores;
 
 import java.util.HashSet;
 import java.util.Iterator;

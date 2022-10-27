@@ -1,0 +1,10 @@
+Colecciones
+    espacio de memoria dinámico
+
+    Tipos de Colecciones
+        Set (las 3 primeras son las mas usadas en este curso)
+
+    Métodos HastCode y Equals
+
+    Iterador
+        next: si pregunta, es porque ya se paso del objeto

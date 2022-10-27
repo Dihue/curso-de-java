@@ -1,4 +1,4 @@
-package Laboratorio.Repositorio.ParteB_01_POO;
+package Laboratorio.Repositorio.ParteB.ParteB_01_POO;
 
 import java.util.Arrays;
 

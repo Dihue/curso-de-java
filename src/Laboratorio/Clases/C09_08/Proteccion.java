@@ -1,2 +1,7 @@
-package Laboratorio.Clases.C09_08;public interface Proteccion {
+package Laboratorio.Clases.C09_08;
+
+public interface Proteccion {
+
+	boolean seguro();
+
 }

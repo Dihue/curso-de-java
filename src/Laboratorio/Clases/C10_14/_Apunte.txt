@@ -1,0 +1,7 @@
+Streams de Datos
+
+1º leer archivo
+2º escribir archivo
+3º serializar archivo (transformar un archivo en una clase)
+
+Streams (es un medio)

@@ -1,0 +1,13 @@
+Excepciones
+
+HAPPY PATH (camino feliz)
+
+    - Empleo del try catch
+
+    - e: instancia del objeto IOException
+
+    Class IOException
+        java.lang.Object
+            java.lang.Throwable
+                java.lang.Exception
+                    java.io.IOException

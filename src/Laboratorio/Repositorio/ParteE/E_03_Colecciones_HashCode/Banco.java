@@ -1,4 +1,4 @@
-package Laboratorio.Repositorio.ParteE_03_Colecciones_HashCode;
+package Laboratorio.Repositorio.ParteE.E_03_Colecciones_HashCode;
 
 import java.util.HashSet;
 import java.util.Set;

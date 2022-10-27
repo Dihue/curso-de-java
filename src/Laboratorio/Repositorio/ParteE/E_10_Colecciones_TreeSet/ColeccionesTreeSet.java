@@ -1,4 +1,4 @@
-package Laboratorio.Repositorio.ParteE_10_Colecciones_TreeSet;
+package Laboratorio.Repositorio.ParteE.E_10_Colecciones_TreeSet;
 
 import java.util.TreeSet;
 

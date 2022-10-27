@@ -1,6 +1,4 @@
-package Laboratorio.Repositorio.ParteE_03_Colecciones_HashCode;
-
-import java.util.Objects;
+package Laboratorio.Repositorio.ParteE.E_03_Colecciones_HashCode;
 
 public class Cliente {
 	private String nombre;

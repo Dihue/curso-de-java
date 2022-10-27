@@ -2,7 +2,7 @@ package Laboratorio.Repositorio.ParteH_ArchivosDirectorios;
 
 import java.io.File;
 
-public class H_01_AccesoRutas {
+public class H_01_Acceso_Rutas {
 
 	public static void main(String[] args) {
 

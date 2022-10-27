@@ -1,4 +1,4 @@
-package Laboratorio.Clases;
+package Laboratorio.Clases.C08_18;
 
 import javax.swing.JOptionPane;
 
