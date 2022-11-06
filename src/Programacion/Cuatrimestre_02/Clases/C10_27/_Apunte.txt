@@ -1,0 +1,20 @@
+Arboles:
+
+Metodo de profundidad:(arbol pdf de ejemplo)
+TadPila
+(estado guardado en la memoria ram - llamado a las ramas)
+
+
+Metodo de anchura:(arbol pdf de ejemplo)
+TadCola
+
+NodoA -> tiene hijos?
+si
+NodoB NodoC (se agregan a la cola y se destruye NodoA)
+
+
+
+Heuristica para la insercion de elementos
+tomar un valor y ver si el arbol esta vacio -> pasa a ser la raiz
+
+usando logica de "si es mayor o menor a la raiz" (siendo el caso de numeros)
