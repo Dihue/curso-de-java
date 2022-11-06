@@ -15,7 +15,7 @@ public class PrimerVentana extends JFrame {
 	private JLabel texto2;
 
 	public PrimerVentana() {
-		setSize(400, 300);
+		setSize(1024, 768);
 		setVisible(true);
 		setLocationRelativeTo(null);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
