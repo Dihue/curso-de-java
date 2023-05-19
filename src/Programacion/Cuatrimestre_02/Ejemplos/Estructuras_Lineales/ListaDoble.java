@@ -46,6 +46,7 @@ public class ListaDoble {
             this.primero.anterior = nuevo;
             this.primero = nuevo;
         }
+        this.tamanio++;
     }
 
     public void eliminarUltimo() {

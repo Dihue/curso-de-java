@@ -9,7 +9,7 @@ public class Lectura {
 	public static void main(String[] args) {
 		try {
 			ObjectInputStream flujoEntrada = new ObjectInputStream(new FileInputStream(
-				"miObjetoSerializado.txt"));
+				"C:\\Users\\Dihue\\Desktop\\Repositories\\CursoDeJava\\src\\Laboratorio\\Repositorio\\ParteG_Serializacion\\miObjetoSerializado.txt"));
 
 			// Debemos crear una variable del objeto que queremos deserializer
 			// Debemos hacer un casting de Object a la clase Personas
@@ -19,9 +19,7 @@ public class Lectura {
 				System.out.println(pers.toString());
 			}
 
-		} catch (IOException e) {
-			e.printStackTrace();
-		} catch (ClassNotFoundException e) {
+		} catch (IOException | ClassNotFoundException e) {
 			e.printStackTrace();
 		}
 	}

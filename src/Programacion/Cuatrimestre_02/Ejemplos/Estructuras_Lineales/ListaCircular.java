@@ -41,7 +41,7 @@ public class ListaCircular {
             // Se tiene que recorrer la lista hasta llegar al último nodo
             Nodo aux = primero;
 
-            while (aux.siguiente != null) {
+            while (aux.siguiente != ultimo) {
                 aux = aux.siguiente;
             }
             aux = null;

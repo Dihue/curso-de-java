@@ -20,10 +20,11 @@ public class Escritura {
 		try {
 			// FileOutputStream("miObjetoSerializado")
 			ObjectOutputStream flujoSalida = new ObjectOutputStream(new FileOutputStream(
-				"miObjetoSerializado.txt"));
+				"C:\\Users\\Dihue\\Desktop\\Repositories\\CursoDeJava\\src\\Laboratorio\\Repositorio\\ParteG_Serializacion\\miObjetoSerializado.txt"));
 
 			// Escribe el objeto en un archivo
 			flujoSalida.writeObject(personas);
+			System.out.println("Serialización completa");
 
 		} catch (IOException e) {
 			e.printStackTrace();

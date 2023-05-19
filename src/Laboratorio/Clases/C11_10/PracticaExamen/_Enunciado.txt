@@ -1,0 +1,40 @@
+Desarrollar un programa utilizando código Java que permita la administración de
+clientes y sus estados de cuenta y su guardado en archivo para que se persista
+la información y cumpla los puntos enunciados a continuación:
+
+1.  El cliente debe tener los siguientes campos:
+    Activos (Lista de activos del cliente)
+
+2.  El programa debe permitir cargar clientes y contemplar los casos en los que
+    el usuario ingrese texto en donde debería ingresar solo números.
+
+3.  Una vez creado un cliente se debe poder cargar la lista de activos.
+
+4.  Un activo contiene:
+                        Nombre
+                        Monto
+
+5.  Los clientes son una clase que hereda de la clase Persona que contiene:
+        Nombre
+        Apellido
+        DNI
+        Dirección
+
+6.  Todas las clases deberán implementar una interfaz Informe que contendrá un
+    método que permita imprimir toda la información de la clase en un formato
+    legible y claro para el usuario. En el caso de la clase cliente también debe
+    poder listar los activos.
+
+7.  El programa debe guardar toda la información de la sesión en un archivo y
+    poder abrir un archivo con la sesión guardada.
+
+8.  El programa debe permitir buscar un cliente y mostrar todos sus datos y activos.
+
+9.  El programa debe poder buscar y eliminar un cliente.
+
+10. El programa deberá contener un menú donde realizar la acciones:
+    a.  Crear Cliente
+    b.  Listar clientes (todos los datos, excepto los activos)
+    c.  Buscar por nombre y listar datos completos de un cliente (incluyendo activos)
+    d.  Buscar y eliminar un cliente.
+    e.  Agregar Activos a un cliente

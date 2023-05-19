@@ -1,0 +1,43 @@
+¡¡¡¡Hace un actualizar cliente!!!!!
+
+Utilizando código JAVA, realice un programa que permita la gestión de clientes
+que contienen activos de una empresa.
+
+El programa deberá cumplir como mínimo con las siguientes funcionalidades:
+
+1. El cliente debe tener los siguientes campos:
+    Activos (Lista de activos del cliente) --- Array
+
+2. El programa debe permitir cargar clientes.
+
+3. Una vez creado un cliente se debe poder cargar la lista de activos.
+
+4. Un activo contiene:
+    Nombre
+    Monto
+    Tipo:
+        Acción
+        Inmueble
+        Mueble
+
+5. Los clientes son una clase que hereda de la clase Persona que contiene:
+    Nombre
+    Apellido
+    DNI
+    Dirección
+
+6. Todas las clases deberán implementar una interfaz Informe que contendrá un método
+que permita imprimir toda la información de la clase.
+
+7. El programa debe guardar toda la información de la sesión en un archivo y poder
+abrir un archivo con la sesión guardada.
+
+8. El programa debe poder buscar y eliminar un cliente.
+
+9. El programa debe permitir buscar un cliente y mostrar todos sus datos y activos.
+
+10. El programa deberá contener un menú donde realizar la acciones:
+        Crear Cliente
+        Listar datos de clientes (excepto los activos)
+        Buscar y listar datos completos de un cliente
+        Buscar y eliminar un cliente.
